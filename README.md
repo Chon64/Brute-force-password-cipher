@@ -1,4 +1,4 @@
-# CS3-Lab1
+# CS3-Lab1 Option C
 Brute force password cipher using machine learning.
 
 Method parameters: bruteForce(username, salt, hashedPassword, minimumDigits, maxDigits, startingDigits)
