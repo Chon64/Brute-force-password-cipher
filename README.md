@@ -1,7 +1,7 @@
 # CS3-Lab1 Option C
 Brute force password cipher.
 
-Method parameters: bruteForce(username, salt, hashedPassword, minimumDigits, maxDigits, startingDigits)
+Method parameters: bruteForce(user_name, salt, hashed_password, min, max)
 
 Tests(password + salt):
 1. min = 3, max = 7,
@@ -27,7 +27,3 @@ Tests(password + salt):
    
 8 min = 3, max = 7,
   9999 + s - to test if method changes finds password not of min or max size
-  
-Test with provided files
-9. min = 3, max = 7,
-   HashedPasswords  - to test if method works for privided challenge files
