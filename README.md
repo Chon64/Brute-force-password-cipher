@@ -1,5 +1,4 @@
-# CS3-Lab1 Option C
-Brute force password cipher.
+# Brute force password cipher.
 
 Method parameters: bruteForce(user_name, salt, hashed_password, min, max)
 
